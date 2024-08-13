@@ -1,10 +1,8 @@
 {
-  "token": "enter account token",
-  "prefix": ">",
+  "token": "MTIzNjMyOTA2NDA5NzEyNDQ0NQ.GJGvds.QREjwG2wHRS9TsyTbDWKJrKF50TQqgaBM4lluA",
+  "prefix": "$",
   "settings": {
-    "channel_ids":[
-      1253727886800588820,
-      1270754511362850817
+    "channel_ids":[ 1272742525295136792
     ],
       "channel_change_interval": [5, 15],
       "animal_types": "all",
